@@ -2,13 +2,16 @@
 
 A curated step by step guide to reduce your carbon footprint. Please share! :-)
 
-# 0. Calculate your Carbon Footprint to figure out where you are now. 
-https://www.nature.org/en-us/get-involved/how-to-help/consider-your-impact/carbon-calculator/
+![https://phys.org/news/2017-07-effective-individual-tackle-climate-discussed.html](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/themosteffec.jpg)
 
-1. Save your results to a folder in your computer, naming the file with today's date.
-2. What makes the biggest difference in your carbon footprint? Tackle that first!
-3. Set a repeating calendar reminder for every 6 months, and make sure to go through this list at least once a year and update your progress folder to see how you are doing. Particularly check the big items, the cost might have dropped!
-4. Nobody is perfect, just try to address every item you are able to, and make sure you improve every time you come back to this list.
+# 0. How are you doing now? Calculate your Carbon Footprint 
+
+1. Go to https://www.nature.org/en-us/get-involved/how-to-help/consider-your-impact/carbon-calculator/
+
+2. Save your results to a folder in your computer, naming the file with today's date.
+3. What makes the biggest difference in your carbon footprint? Tackle that first!
+4. Set a repeating calendar reminder for every 6 months, and make sure to go through this list at least once a year and update your progress folder to see how you are doing. Particularly check the big items, the cost might have dropped!
+5. Nobody is perfect, just try to address every item you are able to, and make sure you improve every time you come back to this list.
 
 # 1. Reduce first! Make a plan for your work and home to reduce biggest carbon sources
 
@@ -64,6 +67,7 @@ https://www.nature.org/en-us/get-involved/how-to-help/consider-your-impact/carbo
     - https://cotap.org/reduce-carbon-footprint/
     - http://www.globalstewards.org/reduce-carbon-footprint.htm
     - https://www.ewg.org/meateatersguide/a-meat-eaters-guide-to-climate-change-health-what-you-eat-matters/climate-and-environmental-impacts/
+    - https://phys.org/news/2017-07-effective-individual-tackle-climate-discussed.html
 - The [International Panel on Climate Change Report 2018](https://www.ipcc.ch/sr15/) explains the major crisis we are headed for.
 
 # License
