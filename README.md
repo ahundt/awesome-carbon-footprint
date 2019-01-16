@@ -17,7 +17,7 @@ A curated step by step guide to reduce your carbon footprint. Please share! :-)
 
 1. Tackle the big impact stuff carbon sources first, just like you would tackle big expenses when tightening your monthly $ budget.
 2. Can you calculate and reduce the carbon impact of your workplace? Can you suggest your office consider it? Can you teleconference instead of flying?
-    1. Flights are among the highest carbon impact activities, reduce or offset them.
+    1. Flights are among the highest carbon impact activities, reduce or pay to [offset](https://www.atmosfair.de/en/offset/fix) them.
 3. Buy new or slightly used high efficiency vehicles/equipment (furnace, low-flow showerhead, water heater, refrigerator, etc)
     1. New stuff can lead to huge emissions reductions over 5+ years if they increase efficiency! (It can save $ too)
     2. Be sure to compare the actual numbers such as [miles per gallon](https://www.fueleconomy.gov/), [wattage per hour (electricity)](https://www.reliant.com/en/residential/save-energy/tips-to-lower-your-electricity-bill/electricity-consumption-comparison.jsp), and gallons per minute (shower heads)!
