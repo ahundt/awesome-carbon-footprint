@@ -3,6 +3,7 @@
 A curated step by step guide to reduce your carbon footprint. Please share! :-)
 
 ![https://phys.org/news/2017-07-effective-individual-tackle-climate-discussed.html](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/themosteffec.jpg)
+[graphic source](https://phys.org/news/2017-07-effective-individual-tackle-climate-discussed.html)
 
 # 0. How are you doing now? Calculate your Carbon Footprint 
 
@@ -36,7 +37,7 @@ A curated step by step guide to reduce your carbon footprint. Please share! :-)
 5. Rent or own your place? Seal it up!
     3. Seal all those leaks to the outside in your apartment/house. [Great stuff expanding foam](https://www.amazon.com/dp/B0002YX98O/ref=cm_sw_em_r_mt_dp_U_3jJpCbE88Z7K0) is helpful.
     1. Do an [energy upgrade to your house/apartment](https://www.energy.gov/articles/living-comfortably-consumer-s-guide-home-energy-upgrades) or suggest it to your landlord.
-9. If you can, first eat less meat, then eat poultry over red meat. You don’t need to be a vegetarian/vegan, every little bit helps because eating 50% less meat and ensuring what you do eat uses 50% of the energy means you get 75% of the gain that comes from being vegan. ![https://www.ewg.org/meateatersguide/a-meat-eaters-guide-to-climate-change-health-what-you-eat-matters/climate-and-environmental-impacts/](http://www.globalstewards.org/images/greenhouse-emissions-per-type-of-food.jpg)
+9. If you can, first eat less meat, then eat poultry over red meat. You don’t need to be a vegetarian/vegan, every little bit helps because eating 50% less meat and ensuring what you do eat uses 50% of the energy means you get 75% of the gain that comes from being vegan. [(graphic source)](https://www.ewg.org/meateatersguide/a-meat-eaters-guide-to-climate-change-health-what-you-eat-matters/climate-and-environmental-impacts/) ![https://www.ewg.org/meateatersguide/a-meat-eaters-guide-to-climate-change-health-what-you-eat-matters/climate-and-environmental-impacts/](http://www.globalstewards.org/images/greenhouse-emissions-per-type-of-food.jpg) 
 3. Change your electricity to a renewable supplier https://www.epa.gov/greenpower/locate-green-power-suppliers. This is one of the quickest!
 11. Think about what might you do or use which is not listed here.
 12. Do items not apply to you? Send this to your landlord, boss, parents, colleagues, etc!
@@ -69,6 +70,7 @@ A curated step by step guide to reduce your carbon footprint. Please share! :-)
     - https://www.ewg.org/meateatersguide/a-meat-eaters-guide-to-climate-change-health-what-you-eat-matters/climate-and-environmental-impacts/
     - https://phys.org/news/2017-07-effective-individual-tackle-climate-discussed.html
 - The [International Panel on Climate Change Report 2018](https://www.ipcc.ch/sr15/) explains the major crisis we are headed for.
+- Please [push for government action in addition to taking action personally](https://phys.org/news/2017-06-emphasizing-individual-solutions-big-issues.html), we urgently need to take steps on all fronts to make progress.
 
 # License
 
